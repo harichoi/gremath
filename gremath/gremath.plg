@@ -1,0 +1,187 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: gremath - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\a\LOCALS~1\Temp\RSP2.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/gremath.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\a\LOCALS~1\Temp\RSP2.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/gremath.pdb" /debug /machine:I386 /out:"Debug/gremath.exe" /pdbtype:sept  ".\Debug\gremath.obj" ".\Debug\gremath.res" "
+<h3>Output Window</h3>
+Compiling...
+gremath.cpp
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(72) : warning C4101: 'z3' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(72) : warning C4101: 'x3' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(72) : warning C4101: 'y3' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(121) : warning C4002: too many actual parameters for macro 'CreateWindowA'
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(122) : warning C4002: too many actual parameters for macro 'CreateWindowA'
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(123) : warning C4002: too many actual parameters for macro 'CreateWindowA'
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(283) : warning C4101: 'befx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(283) : warning C4101: 'befy' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(285) : warning C4101: 'inc' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(285) : warning C4101: 'kx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(285) : warning C4101: 'ky' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(285) : warning C4101: 'kz' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(313) : warning C4101: 'befx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(313) : warning C4101: 'befy' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(315) : warning C4101: 'inc' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(315) : warning C4101: 'kx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(315) : warning C4101: 'ky' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(315) : warning C4101: 'kz' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(343) : warning C4101: 'befx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(343) : warning C4101: 'befy' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(345) : warning C4101: 'inc' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(345) : warning C4101: 'kx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(345) : warning C4101: 'ky' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(345) : warning C4101: 'kz' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(643) : warning C4101: 'befx' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(643) : warning C4101: 'befy' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(777) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(779) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(780) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(781) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(782) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(804) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(806) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(807) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(813) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(815) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(816) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(821) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(834) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(835) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(851) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(852) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(853) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(868) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(872) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(875) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(876) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(882) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(939) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1116) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1116) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1125) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1125) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1165) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1345) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1345) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1346) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1347) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1350) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1351) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1369) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1369) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1536) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1570) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1582) : warning C4172: returning address of local variable or temporary
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1601) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1606) : warning C4172: returning address of local variable or temporary
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1620) : warning C4172: returning address of local variable or temporary
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1624) : warning C4172: returning address of local variable or temporary
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1637) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1807) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1809) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1810) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1811) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1812) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1827) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1829) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1830) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1831) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1832) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1882) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2074) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2253) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2253) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2261) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2261) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1849) : warning C4101: 'zz' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1793) : warning C4101: 'bxs' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(1793) : warning C4101: 'bxf' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2481) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2481) : warning C4305: '=' : truncation from 'const unsigned __int64' to 'double'
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2504) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2504) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2516) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2516) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2528) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2528) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2560) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2752) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2945) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3136) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3137) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3138) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3139) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3140) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3141) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3142) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3143) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2469) : warning C4101: 'af' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2469) : warning C4101: 'bf' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2473) : warning C4101: 'bxs' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(2473) : warning C4101: 'bxf' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3383) : warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3383) : warning C4305: '=' : truncation from 'const unsigned __int64' to 'double'
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3406) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3406) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3418) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3418) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3430) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3430) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3462) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3654) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3847) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4037) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4038) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4039) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4040) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4041) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4042) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4043) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4044) : warning C4244: '=' : conversion from 'double' to 'long', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3371) : warning C4101: 'af' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3371) : warning C4101: 'bf' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3375) : warning C4101: 'bxs' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(3375) : warning C4101: 'bxf' : unreferenced local variable
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4295) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4297) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4298) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4299) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4300) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4321) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4323) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4324) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4325) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4326) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4379) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4559) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4559) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4568) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4568) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4616) : warning C4018: '==' : signed/unsigned mismatch
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4789) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4789) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4790) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4791) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4794) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4795) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4800) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(4800) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+C:\Documents and Settings\a\바탕 화면\내가만든프로그램\gremath\gremath.cpp(198) : warning C4700: local variable 'MemDC' used without having been initialized
+Linking...
+
+
+
+<h3>Results</h3>
+gremath.exe - 0 error(s), 160 warning(s)
+</pre>
+</body>
+</html>
